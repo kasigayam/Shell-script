@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello world this kasi welcome to shell scripting class."
+echo "Hello world this is kasi welcome to shell scripting class."
